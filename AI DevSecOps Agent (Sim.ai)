@@ -108,3 +108,12 @@ Constraints:
 ------------------------------
 Output:
 "Security scan completed and comment posted successfully."
+
+
+Steps To set up Webhook 
+
+
+1.Ones Wrokflow Created you can click on Deploye button you will get an on webhook URL.
+2.Open git repo which you want to automate.
+3.go to webhooks and add user under new webhook.
+4.give PR permissions and raise new PR and check the Output.
