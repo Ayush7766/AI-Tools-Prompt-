@@ -1,0 +1,101 @@
+
+
+**Build a full-stack Internal Issue Tracker application using Insoforge.**
+
+**Use Insoforge for backend services including:**
+- database  
+- authentication  
+- API generation  
+- serverless functions  
+- AI integration  
+
+**Application goal:**  
+Create a tool that internal teams can use to track bugs, tasks, and feature requests across projects.
+
+**Core functionality:**
+
+**Projects**  
+Users should be able to create and manage projects.
+
+**Issues**  
+Users should be able to create issues within projects. Issues represent bugs, tasks, or feature requests.
+
+**Issue management**  
+Users should be able to:  
+- assign issues to users  
+- update issue status  
+- set issue priority  
+- comment on issues  
+- view issues by project  
+- view issues assigned to them  
+
+**Authentication**  
+Use Insoforge authentication features to implement:  
+- user sign up  
+- user login  
+- user sessions  
+- protected routes for authenticated users  
+- user roles if appropriate  
+
+
+
+**Only authenticated users should be able to create or modify issues.**
+
+**AI chatbot**  
+Add a simple AI assistant inside the application.  
+The chatbot should help users with things like:  
+- explaining how to use the issue tracker  
+- answering questions about projects and issues  
+- helping summarize issues or discussions  
+
+Use Insforge AI integration to implement the chatbot.
+
+**User interface**  
+Create a simple but functional frontend with pages such as:
+
+**Dashboard**  
+- overview of projects  
+- recent issues  
+- issues assigned to the current user  
+
+
+**Use Insforge AI integration to implement the chatbot.**
+
+**User interface**  
+Create a simple but functional frontend with pages such as:
+
+**Dashboard**  
+- overview of projects  
+- recent issues  
+- issues assigned to the current user  
+
+**Project page**  
+- list of issues within a project  
+
+**Issue page**  
+- issue details  
+- comments  
+- ability to change status and assign users  
+
+**AI assistant panel**  
+- simple chat interface where users can ask questions  
+
+**System design instructions**  
+You are responsible for designing the data model, database schema, API endpoints, and application architecture.  
+Use Insforge capabilities wherever possible instead of building custom infrastructure.
+
+**Work step by step:**  
+1. design the system architecture and data model  
+2. implement authentication  
+3. create the database schema  
+4. implement APIs and backend logic  
+5. implement the frontend  
+6. integrate the AI assistant  
+7. connect everything into a working application  
+
+Follow best practices for scalable SaaS applications.  
+
+
+
+
+
